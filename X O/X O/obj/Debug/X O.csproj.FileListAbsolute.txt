@@ -1,0 +1,11 @@
+C:\Users\marin\source\repos\X O\X O\bin\Debug\X O.exe.config
+C:\Users\marin\source\repos\X O\X O\bin\Debug\X O.exe
+C:\Users\marin\source\repos\X O\X O\bin\Debug\X O.pdb
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X O.csprojAssemblyReference.cache
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X_O.Form1.resources
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X_O.Properties.Resources.resources
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X O.csproj.GenerateResource.cache
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X O.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X O.exe
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X O.pdb
+C:\Users\marin\source\repos\X O\X O\obj\Debug\X_O.Form2.resources
